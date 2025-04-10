@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Daniel 👋
+
+- 🔭 I’m currently working as a Data Engineer at a german insurance company
+- 🌱 I’m currently learning the wonders of Golang, Python, flet and GenAI
+- 💬 feel free to contact me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Started my python journey more than 10 years ago, still learning wonderous, and definitely cool things😄
 
 <!--
 **danpet-dev/danpet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
